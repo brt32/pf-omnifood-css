@@ -1,0 +1,14 @@
+{
+  "name": "pf-omnifood",
+  "version": "1.0.0",
+  "description": "Omnifood Website",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "B.Proczkowski",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
